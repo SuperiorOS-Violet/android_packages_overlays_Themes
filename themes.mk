@@ -214,6 +214,17 @@ PRODUCT_PACKAGES += \
     PillsSignalOverlay \
     RomanSignalOverlay
 
+# QS Panel
+PRODUCT_PACKAGES += \
+    QSOutline \
+    QSTwoToneAccent \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin
+
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay \
